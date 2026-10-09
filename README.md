@@ -34,5 +34,4 @@ its output when C1 reaches 1/3 and 2/3 of the supply voltage.
 ## What I learned
 - Schematic capture, footprint assignment, and ERC
 - 2-layer PCB layout, routing, and ground pour
-- DRC and Gerber export
-- Soldering and testing the finished board
+
