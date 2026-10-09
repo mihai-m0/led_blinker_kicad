@@ -3,7 +3,8 @@
 A simple astable 555 timer circuit that blinks an LED at about 1 Hz,
 designed in KiCad as my first PCB project.
 
-![3D render](images/pcb-3d.png)
+![3D render](images/finished_board1.png)
+![3D render](images/finished_board2.png)
 
 ## Overview
 - 2-layer through-hole PCB, 50 x 40 mm
